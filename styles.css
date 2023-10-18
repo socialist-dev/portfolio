@@ -88,16 +88,6 @@ h4 {
     margin: 0;
 }
 
-    h5 {
-    position: fixed;
-    text-align: center;
-    color: white;
-    font-weight: bold;
-    font-size: 14px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin: 500px;
-}
-
 p {
     text-align: center;
     color: beige;
